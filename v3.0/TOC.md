@@ -132,8 +132,6 @@
     - [工具下载](/v3.0/reference/tools/download.md)
   + 最佳实践
     - [HAProxy 最佳实践](/v3.0/reference/best-practices/haproxy.md)
-    - [Java 应用开发最佳实践](/v3.0/reference/best-practices/java-app.md)
-    - [高并发写入场景最佳实践](/v3.0/reference/best-practices/high-concurrency.md)
   + [与 MySQL 兼容性对比](/v3.0/reference/mysql-compatibility.md)
   + SQL
     + SQL 语言结构
@@ -321,6 +319,7 @@
     - [统计信息概述](/v3.0/reference/performance/statistics.md)
     - [Optimizer Hints](/v3.0/reference/performance/optimizer-hints.md)
     - [使用 SQL 语句检查 TiDB 集群状态](/v3.0/reference/performance/check-cluster-status-using-sql-statements.md)
+    - [Statement Summary Table](/v3.0/reference/performance/statement-summary.md)
     - [TiKV 调优](/v3.0/reference/performance/tune-tikv.md)
     - [TiDB 最佳实践](https://pingcap.com/blog-cn/tidb-best-practice/)
   + [TiSpark 使用指南](/v3.0/reference/tispark.md)
@@ -365,7 +364,6 @@
   - [常见问题](/v3.0/tidb-in-kubernetes/faq.md)
 + 常见问题 (FAQ)
   - [TiDB FAQ](/v3.0/faq/tidb.md)
-  - [TiDB Binlog FAQ](/v3.0/faq/tidb-binlog.md)
   - [TiDB Lightning FAQ](/v3.0/faq/tidb-lightning.md)
   - [Data Migration FAQ](/v3.0/faq/data-migration.md)
   - [升级 FAQ](/v3.0/faq/upgrade.md)
